@@ -91,3 +91,4 @@ class BuyerProfile(models.Model):
     def __str__(self):
         return f'Buyer Profile of {self.profile}'
 
+
